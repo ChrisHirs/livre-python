@@ -1,5 +1,0 @@
-activate book
-
-se foutre dans livre-python
-
-sphinx-build -b html source kek
