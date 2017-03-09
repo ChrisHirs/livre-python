@@ -13,3 +13,6 @@ Compilation
     $ sphinx-build -b html source build/html
     $ sphinx-build -b latex source build/latex
     $ sphinx-build -b epub source build/epub
+
+Bonjour
+-------
