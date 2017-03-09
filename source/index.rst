@@ -20,4 +20,5 @@ Table des matières
 
    introduction.rst
    json/index.rst
+   random/index.rst
    licence.rst
