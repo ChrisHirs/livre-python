@@ -24,6 +24,7 @@ Table des matières
 
    collections/index.rst
    json/index.rst
+   random/index.rst
    io/index.rst
 
    licence.rst
